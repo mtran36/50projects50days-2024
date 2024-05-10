@@ -56,3 +56,8 @@
 | ------ |
 
 [Event KeyCodes](https://htmlpreview.github.io/?https://github.com/mtran36/50projects50days-2024/blob/main/day_11_eventKeyCodes/index.html)
+
+| Day 12 |
+| ------ |
+
+[FAQ Collapse](https://htmlpreview.github.io/?https://github.com/mtran36/50projects50days-2024/blob/main/day_12_faqCollapse/index.html)
