@@ -1,4 +1,8 @@
 ﻿# 50 Projects 50 Days
+  
+|  #  | Project                                                                                                                     | Live Demo                              | Screenshot                  |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | --------------------------- |
+| 01  | | [Expanding Cards](https://htmlpreview.github.io/?https://github.com/mtran36/50projects50days-2024/blob/main/day_1_expandingCards/index.html) | ![Day 1 - Expanding Cards](project_screenshots/day1_expandingCards.PNG) |
 
 | Day 1 |
 | ----- |
