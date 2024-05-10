@@ -2,7 +2,7 @@
   
 |  #  | Project                                                                                              | Live Demo                              | Screenshot                  | Video                   |
 | :-: | ---------------------------------------------------------------------------------------------------- | -------------------------------------- | --------------------------- | ----------------------- |
-| 01  | | [Expanding Cards](https://htmlpreview.github.io/?https://github.com/mtran36/50projects50days-2024/blob/main/day_1_expandingCards/index.html) | ![Day 1 - Expanding Cards] | |(project_screenshots/day1_expandingCards.PNG) |
+| 01  | | [Expanding Cards](https://htmlpreview.github.io/?https://github.com/mtran36/50projects50days-2024/blob/main/day_1_expandingCards/index.html) | ![Day 1 - Expanding Cards](project_screenshots/day1_expandingCards.PNG) | |
 
 | Day 2 |
 | ----- |
